@@ -4,9 +4,15 @@
     box-sizing: border-box;
 }
 body {
-    font-size: 18px;
+    font-size: 16px;
 }
 .header {
-    padding: 0 50px;
+    padding: 0 20px;
     background-color: red;
+}
+section {
+    padding: 100px 0;
+    background-color: blue;
+    font-size: 40px;
+    line-height: 1.2;
 }
